@@ -3,7 +3,7 @@ coches = {
         "Modelo": "Corolla",
         "Cilindrada": "1.8L",
         "Combustible": "Gasolina"
-    },ddddddddddd
+    },
     "Ford": {
         "Modelo": "Mustang",
         "Cilindrada": "5.0L",
